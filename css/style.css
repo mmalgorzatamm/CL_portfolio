@@ -1,0 +1,43 @@
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    height: 70px;
+    
+}
+
+/*
+footer {
+    background-color: bisque;
+    height: 16px;
+    font-size: 
+*/
+}
+
+article {
+}
+
+
+ul { 
+    list-style-type: none;
+    color: white;
+    width: 250px;
+    margin: 0;
+    float: right;
+    
+     
+}
+
+ul.headerMenu {
+    border-style: solid;
+    
+}
+
+li {
+    display: inline-block;
+}
